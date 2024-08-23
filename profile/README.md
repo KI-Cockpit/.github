@@ -1,5 +1,5 @@
 
-# Künstliche Intelligenz am Arbeitsplatz souverän einsetzen, verstehen und kontrollieren: ein KI-Cockpit für Beschäf#tigte
+# Künstliche Intelligenz am Arbeitsplatz souverän einsetzen, verstehen und kontrollieren: ein KI-Cockpit für Beschäftigte
 
 Künstliche Intelligenz (KI) kann Beschäftigte entlasten, die Arbeitsqualität verbessern und die Produktivität erhöhen. Eine entscheidende Voraussetzung dafür ist, dass die Entwicklung, Gestaltung und der Einsatz der Technologie menschenzentriert und eng an den Bedürfnissen und Fähigkeiten der Beschäftigten orientiert sind. Dazu gehört auch, dass Beschäftigte KI-Systeme im Arbeitsalltag verstehen, überwachen und steuern können. KI ist nur dann eine sinnvolle Unterstützung, wenn die Entscheidung über ihren Einsatz und die Kontrolle ihrer Ergebnisse beim Menschen liegen. 
 
