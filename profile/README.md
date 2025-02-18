@@ -1,12 +1,6 @@
 # Project AI Cockpit / KI Cockpit
 In this Github organization you will find technical documentation for the federal German researc project AI Cockpit / KI Cockpit. See [project homepage](https://www.kicockpit.eu/) (German) for more details. 
 
-Table of content
-
-* Introduction ([English](#background--motivation) / [Deutsch](#einführung--motivation))
-* [Software results & projects](#software-results--projects)
-
-
 ## Contact & Contribution
 This project was partly funded by the government of the federal republic of Germany. It is part of a research project aiming to keep _humans in command_ and is organized by the Federal Ministry of Labour and Social Affairs.
 
