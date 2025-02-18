@@ -37,9 +37,7 @@ In this section all software components developed are being introduced and descr
 All components developed for this application domain are desrcibed [here](hol.md).
 
 ## Human in the loop
-<img src="doc/logo starwit.svg" alt="Starwit Logo" align="left" style="width:80px;float: left; margin-right: 10px;"/>
-In this section you will find all components developed to deal with human in the loop scenarios. It is targeted to support operators, that need to evaluate and approve AI decisions and actions in time critical situations. Human intervention thus necessary to address mistakes that have severe consequences. 
-
+<img src="doc/logo starwit.svg" alt="Starwit Logo" align="left" style="width:80px;float: left; margin-right: 10px;"/> In this section you will find all components developed to deal with human in the loop scenarios. It is targeted to support operators, that need to evaluate and approve AI decisions and actions in time critical situations. Human intervention thus necessary to address mistakes that have severe consequences. 
 
 All components developed for this application domain are desrcibed [here](hil.md).
 
