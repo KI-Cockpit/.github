@@ -1,6 +1,6 @@
 # AI Cockpit - Human in the loop
 
-In this field lab a number of software components were developed and published. Core is a decision/action oriented cockpit application, that focuses on checking/correcting scene interepretation and apropriate action selection/execution. <img src="doc/logo starwit.svg" alt="Starwit Logo" style="width:80px;float: left"/> Cockpit is running alongside a number of microservices, that deliver all needed functionality.
+<img src="doc/logo starwit.svg" alt="Starwit Logo" align="left" style="width:80px;float: left"/> In this field lab a number of software components were developed and published. Core is a decision/action oriented cockpit application, that focuses on checking/correcting scene interepretation and apropriate action selection/execution. Cockpit is running alongside a number of microservices, that deliver all needed functionality.
 
 All data structures used to integrate Starwit's AI Cockpit into an existing landscape have been standardized int this project and definition can be found [here](https://github.com/KI-Cockpit/ai-cockpit-api). With this abstraction cockpit can be used for many application domains. For a list of examples see [here](https://aic.starwit-infra.de/)
 
