@@ -1,5 +1,5 @@
 # Project AI Cockpit / KI Cockpit
-In this Github organization you will find technical documentation for the federal German researc project AI Cockpit / KI Cockpit. See [project homepage](https://www.kicockpit.eu/) (German) for more details. 
+In this Github organization you will find technical documentation for the federal German research project AI Cockpit / KI Cockpit. See [project homepage](https://www.kicockpit.eu/) (German) for more details. 
 
 ## Contact & Contribution
 This project was partly funded by the government of the federal republic of Germany. It is part of a research project aiming to keep _humans in command_ and is organized by the Federal Ministry of Labour and Social Affairs.
@@ -24,19 +24,19 @@ Künstliche Intelligenz (KI) kann Beschäftigte entlasten, die Arbeitsqualität 
 Ziel des Projekts KI-Cockpit ist es, Beschäftigten einen Überblick über die Entscheidungen des Systems zu vermitteln und sie damit zu befähigen, gut informiert und selbstständig über die Notwendigkeit von Eingriffen in maschinelle Abläufe zu entscheiden. Damit sollen insbesondere gesellschaftliche Risiken von KI-Technologien wie Verzerrungen und Diskriminierungen minimiert und die Akzeptanz ihrer Nutzung in der Arbeitswelt gesteigert werden. Zudem wird ein Vorgehensmodell entwickelt, das Organisationen bei der AI-Act-konformen Einführung von KI-Systemen unterstützt.
 
 # Software results & projects
-In this section all software components developed are being introduced and described. For every component there is guidance where to find more technical information and how you can 
+In this section all software components developed are being introduced and described. For every component there is guidance where to find more technical information and how you can deploy and use the AI Cockpit variant best suited for your specific needs.
 
 ## Human on the loop
 <img src="doc/chemistree_logo.svg" alt="Chemistree Logo" align="left" style="width:180px;float: left; margin-right: 10px;"/> In this section you will find the AI Cockpit "Human on the Loop", which was developed assisting those who are assigned the role of “human oversight” under the AI Act to effectively monitor and control an AI system. It follows a risk based and generic approach.
 
-The Features and Usecases for this AI Cockpit Human on the Loop are desrcibed [here](hol.md).
+The features and usecases for this AI Cockpit Human on the Loop are desrcibed [here](hol.md).
 
-Software in this section was developed by [Chemistree GmbH](https://www.cheminstree.de/)
+The software in this section was developed by [Chemistree GmbH](https://www.cheminstree.de/)
 
 
 ## Human in the loop
-<img src="doc/logo starwit.svg" alt="Starwit Logo" align="left" style="width:80px;float: left; margin-right: 10px;"/> In this section you will find all components developed to deal with human in the loop scenarios. It is targeted to support operators, that need to evaluate and approve AI decisions and actions in time critical situations. Human intervention thus necessary to address mistakes that have severe consequences. 
+<img src="doc/logo starwit.svg" alt="Starwit Logo" align="left" style="width:80px;float: left; margin-right: 10px;"/> In this section you will find all components developed to deal with human in the loop scenarios. It is targeted to support operators that need to evaluate and approve AI decisions and actions in time-critical situations. Human intervention thus necessary to address mistakes that have severe consequences. 
 
 All components developed for this application domain are desrcibed [here](hil.md).
 
-Software in this section was developed by [Starwit Technologies GmbH](https://starwit-technologies.de/)
+The software in this section was developed by [Starwit Technologies GmbH](https://starwit-technologies.de/)
