@@ -1,6 +1,6 @@
 # AI Cockpit - Human on the loop
 
-<img src="doc/chemistree_logo.svg" alt="Chemistree Logo" align="left" style="width:180px;float: left"/> In this field lab we developed a software solution assisting those who are assigned the role of “human oversight” under the AI Act to effectively monitor and control an AI system.
+<img src="doc/chemistree_logo.svg" alt="Chemistree Logo" align="left" style="width:180px;float: left"/> In this field lab a software solution was developed assisting those who are assigned the role of “human oversight” under the AI Act to effectively monitor and control an AI system.
 
 The Software in this field lab was developed by [Chemistree GmbH](https://www.chemistree.de/).
 
