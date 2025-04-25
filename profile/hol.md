@@ -4,6 +4,8 @@
 
 The Software in this field lab was developed by [Chemistree GmbH](https://www.chemistree.de/).
 
+<img src="doc/kic_hol_screenshot.png" alt="KIC Human on the Loop Dashboard" />
+
 ## AI Cockpit Features
 
 The AI Cockpit software solution is a web and API-based application that allows users to:
