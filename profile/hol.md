@@ -1,6 +1,6 @@
 # AI Cockpit - Human on the loop
 
-<img src="doc/chemistree_logo.svg" alt="Chemistree Logo" align="left" style="width:80px;float: left"/> In this field lab we developed a software solution assisting those who are assigned the role of “human oversight” under the AI Act to effectively monitor and control an AI system.
+<img src="doc/chemistree_logo.svg" alt="Chemistree Logo" align="left" style="width:180px;float: left"/> In this field lab we developed a software solution assisting those who are assigned the role of “human oversight” under the AI Act to effectively monitor and control an AI system.
 
 The Software in this field lab was developed by [Chemistree GmbH](https://www.chemistree.de/).
 
@@ -41,4 +41,4 @@ The developed solution is open source and uses mainly two other open source proj
 * [Vue.js](https://vuejs.org/): an open-source JavaScript framework specifically designed for building user interfaces (UIs) and single-page applications (SPAs).
 * [Appwrite](https://appwrite.io/): an open-source self-hosted Backend-as-a-Service (BaaS) platform, used for Authentication, Databases, Functions, Storage, and Messaging.
   
-The AI Cockpit of Chemistree is 100% open source and published under AGPL.
+The AI Cockpit of Chemistree is 100% open source and published under [AGPL V3](https://github.com/chmstr/ai-cockpit/blob/main/LICENSE).
