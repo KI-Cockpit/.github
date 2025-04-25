@@ -27,8 +27,12 @@ Ziel des Projekts KI-Cockpit ist es, Beschäftigten einen Überblick über die E
 In this section all software components developed are being introduced and described. For every component there is guidance where to find more technical information and how you can 
 
 ## Human on the loop
+<img src="doc/chemistree_logo.svg" alt="Chemistree Logo" align="left" style="width:180px;float: left; margin-right: 10px;"/> In this section you will find the AI Cockpit "Human on the Loop", which was developed assisting those who are assigned the role of “human oversight” under the AI Act to effectively monitor and control an AI system. It follows a risk based and generic approach.
 
-All components developed for this application domain are desrcibed [here](hol.md).
+The Features and Usecases for this AI Cockpit Human on the Loop are desrcibed [here](hol.md).
+
+Software in this section was developed by [Chemistree GmbH](https://www.cheminstree.de/)
+
 
 ## Human in the loop
 <img src="doc/logo starwit.svg" alt="Starwit Logo" align="left" style="width:80px;float: left; margin-right: 10px;"/> In this section you will find all components developed to deal with human in the loop scenarios. It is targeted to support operators, that need to evaluate and approve AI decisions and actions in time critical situations. Human intervention thus necessary to address mistakes that have severe consequences. 
