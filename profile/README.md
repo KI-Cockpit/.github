@@ -29,14 +29,14 @@ In this section all software components developed are being introduced and descr
 ## Human on the loop
 <img src="doc/chemistree_logo.svg" alt="Chemistree Logo" align="left" style="width:180px;float: left; margin-right: 10px;"/> In this section you will find the AI Cockpit "Human on the Loop", which was developed assisting those who are assigned the role of “human oversight” under the AI Act to effectively monitor and control an AI system. It follows a risk based and generic approach.
 
-The features and usecases for this AI Cockpit Human on the Loop are desrcibed [here](hol.md).
+The features and usecases for this AI Cockpit Human on the Loop are described [here](hol.md).
 
-The software in this section was developed by [Chemistree GmbH](https://www.cheminstree.de/)
+The software in this section was developed by [Chemistree GmbH](https://www.chemistree.de/)
 
 
 ## Human in the loop
 <img src="doc/logo starwit.svg" alt="Starwit Logo" align="left" style="width:80px;float: left; margin-right: 10px;"/> In this section you will find all components developed to deal with human in the loop scenarios. It is targeted to support operators that need to evaluate and approve AI decisions and actions in time-critical situations. Human intervention thus necessary to address mistakes that have severe consequences. 
 
-All components developed for this application domain are desrcibed [here](hil.md).
+All components developed for this application domain are described [here](hil.md).
 
 The software in this section was developed by [Starwit Technologies GmbH](https://starwit-technologies.de/)
