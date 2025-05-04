@@ -1,4 +1,4 @@
-# Project AI Cockpit / KI Cockpit
+# Project AI Cockpit / KI-Cockpit
 In this Github organization you will find technical documentation for the federal German research project AI Cockpit / KI Cockpit. See [project homepage](https://www.kicockpit.eu/) (German) for more details. 
 
 ## Contact & Contribution
