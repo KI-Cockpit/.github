@@ -40,3 +40,11 @@ The software in this section was developed by [Chemistree GmbH](https://www.chem
 All components developed for this application domain are described [here](hil.md).
 
 The software in this section was developed by [Starwit Technologies GmbH](https://starwit-technologies.de/)
+
+
+## Transparency-Interface
+
+<img src="https://github.com/KI-Cockpit/Transparenz-Interface/blob/main/Transparency%20Interface%20Logo.png" alt="Transparency-Interface Logo" align="left" style="width:80px;float: left; margin-right: 10px;"/> In this section you will find the template for the Transparency-Interface. The Transparency-Interface (TI) is a guide that enables users to make informed decisions. It provides comprehensible information on the functionality and background of an AI system before and during use.
+
+All components developed for this application domain are described [here](https://github.com/KI-Cockpit/Transparenz-Interface/tree/main).
+
