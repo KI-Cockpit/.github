@@ -4,7 +4,7 @@ In this Github organization you will find technical documentation for the federa
 ## Contact & Contribution
 This project was partly funded by the government of the federal republic of Germany. It is part of a research project aiming to keep _humans in command_ and is organized by the Federal Ministry of Labour and Social Affairs.
 
-![BMAS](doc/BMAS_Logo.svg)
+![BMAS](doc/foerderlogo.png)
 
 
 # Background & Motivation
