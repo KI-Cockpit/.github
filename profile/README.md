@@ -2,8 +2,7 @@
 In this Github organization you will find technical documentation for the research project “KI-Cockpit” (AI Cockpit). See [project homepage](https://www.kicockpit.eu/) (German) for more details. 
 
 ## Contact & Contribution
-The “KI-Cockpit” (AI Cockpit) project was funded by the Federal Ministry of Labor and Social Affairs and executed by the Nexus Institute, Hochschule Aalen, the University of Stuttgart, Chemistree, Caritas Dortmund & Starwit Technologies.
-The “KI-Cockpit” (AI Cockpit) project was funded by the Federal Ministry of Labor and Social Affairs and executed by the Nexus Institute, Aalen University, the University of Stuttgart, Chemistree, Caritas Dortmund & Starwit Technologies with the support of Awesome Technologies Innovationslabor, the Institute for Innovation and Technology (iit) at VDI/VDE Innovation + Technik and keytec.
+The “KI-Cockpit” (AI Cockpit) project was funded by the Federal Ministry of Labor and Social Affairs and executed by the nexus Institute, Aalen University, the University of Stuttgart, Chemistree, Caritas Dortmund & Starwit Technologies with the support of Awesome Technologies Innovationslabor, the Institute for Innovation and Technology (iit) at VDI/VDE Innovation + Technik and keytec.
 
 <img src="doc/foerderlogo.png" alt="BMAS Logo" style="width:33%; height:auto;">
 
